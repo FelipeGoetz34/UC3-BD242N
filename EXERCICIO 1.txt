@@ -1,0 +1,16 @@
+1. 1970 a 1972 ou 1976.
+
+2.chen
+
+3.o sistema gerenciador é a interface para utilizar os dados e o
+
+ Sistema de Banco de Dados é ex:o MySQL que é a estrutura principal aonde vao ser armazenado os dados.
+
+4. As principais caracteristicas são armazenar dados/ porde consultar e modificar os dados/ relacionar os dados/
+e ter beckup dos dados.
+
+5.
+
+6.Pode ser usado por varias pessoas/ pode ser criado multiplos usuarios com acessos e permições distintas/
+ 
+beckup dos dados/ Facil acesso as dodos e capacidade de armazenamento e manipulaçoes e consultas. 
